@@ -161,7 +161,7 @@ footer a {
 
 /* Media Queries */
 
-@media only screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     
     h2 {
         margin: 4% 0 10%;
@@ -182,7 +182,7 @@ footer a {
 
 }
 
-@media only screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 
     label {
         text-align: center;
